@@ -1,0 +1,14 @@
+{
+  "name": "tarot",
+  "version": "0.0.0",
+  "description": "tarot",
+  "main": "app.js",
+  "author": {
+    "name": "matrix"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mysql": "^2.13.0"
+  }
+}
